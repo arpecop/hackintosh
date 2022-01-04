@@ -938,7 +938,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>igfxonln=1 keepsyms=1 alcid=11</string>
+				<string>igfxonln=1 keepsyms=1 alcid=2</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
